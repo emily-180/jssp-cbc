@@ -1,6 +1,6 @@
-# Job Shop Scheduling Problem (JSSP) – Minimização do Makespan
+## Job Shop Scheduling Problem (JSSP) – Minimização do Makespan
 
-**Grupo:** Lnicker, Emilly e Arielce
+**Grupo:** Linicker, Emilly e Arielce
 
 Modelo de Programação Linear Inteira (formulação disjuntiva de Manne) em Python com PuLP, resolvido com o solver CBC.
 
